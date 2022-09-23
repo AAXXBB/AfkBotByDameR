@@ -1,6 +1,6 @@
 {
 	"ip":"Pczyk.aternos.me",
-	"port":64783,
+	"port":,64783
 	"name": "afkbot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
